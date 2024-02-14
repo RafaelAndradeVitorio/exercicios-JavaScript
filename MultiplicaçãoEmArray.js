@@ -1,4 +1,4 @@
-Nesta função retornara o produto de todos os  elementos dentro  do ARRAY
+// Nesta função retornara o produto de todos os  elementos dentro  do ARRAY
 
 function produto (numero){
     var total = 1
